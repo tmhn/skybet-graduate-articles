@@ -1,0 +1,14 @@
+siteTitle="SkyBet Graduate Articles"
+baseColor = "#007EE5"
+linkPrefix = "/skybet-graduate-articles"
+docPages = [
+  	"/docs/",
+  	"/docs/about/",
+  	"/docs/getting-started/",
+  	"/docs/how-to-run/",
+  	"/docs/conclusion/",
+]
+contributorPages = [
+	"/contributors/",
+	"/contributors/tom-hanson/"
+]
