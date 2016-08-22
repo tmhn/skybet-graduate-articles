@@ -10,6 +10,6 @@ docPages = [
 ]
 contributorPages = [
 	"/contributors/",
-	"/contributors/tom-hanson/"
+	"/contributors/tom-hanson/",
 	"/contributors/ryan-morrison/"
 ]
